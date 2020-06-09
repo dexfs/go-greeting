@@ -28,9 +28,12 @@ $ ./greeting
 
 ## Docker
 ```bash
-$ docker build --compress -t  seu_user/go-soma .
+$ docker build --compress -t  seu_user/go-greeting .
 ```
 
+## Docker Hub
+
+[dexfs/go-greeting](https://hub.docker.com/repository/docker/dexfs/go-greeting)
 
 
 # Referências 
